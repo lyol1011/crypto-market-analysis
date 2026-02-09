@@ -1,6 +1,6 @@
 # Crypto Market Analysis (CoinGecko + Blockstream + OpenAI)
 
-A small group data science project created during university coursework (DSCB230/Informatik2, Summer Semester 2025).  
+Group project from **DSCB230 – Informatik für Data Science 2 (SS 2025)**.
 The project analyzes crypto market metrics (price, volume, volatility, market cap) and explores Bitcoin on-chain data (transaction fees vs. transaction size).  
 Additionally, it contains an experimental notebook that links large price moves to real-world events using an LLM.
 
